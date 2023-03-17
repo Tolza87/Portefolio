@@ -40,7 +40,7 @@ img{
 }
 
 body{
-  background: #1565c0;
+  background: #A2A3BB;
 }
 
 a{
@@ -48,7 +48,7 @@ a{
 }
 
 .wrapper .sidebar{
-  background: #0d47a1;
+  background: #1C3144;
   position: fixed;
   top: 0;
   left: 0;
@@ -84,7 +84,7 @@ a{
 .wrapper .sidebar ul li a {
   display: block;
   padding: 13px 30px;
-  border-bottom: 1px solid #0d47a1;
+  border-bottom: 1px solid #1C3144;
   color: #d6d5d5;
   font-size: 16px;
   position: relative;
@@ -101,7 +101,7 @@ a{
 .wrapper .sidebar ul li a:hover,
 .wrapper .sidebar ul li a.active{
   color: #000000;
-  background: #b3e5fc;
+  background: #A2A3BB;
   border-right: 2px solid #d6d5d5;
 }
 
@@ -122,7 +122,7 @@ a{
 }
 
 .wrapper .section .top_navbar{
-  background-color: #0d47a1;
+  background-color: #1C3144;
   height: 50px;
   display: flex;
   align-items: center;
@@ -158,14 +158,14 @@ body.active .wrapper .section{
 .card{
   width: 550px;
   margin: 0px auto;
-  background-color: white;
+  background-color: #EDE5A6;
   box-shadow: 0px 5px 20px #999;
 }
 
 .card_consul{
   width: 1100px;
   margin: 0px auto;
-  background-color: white;
+  background-color: #EDE5A6;
   box-shadow: 0px 5px 20px #999;
   color: #333;
   text-decoration: nome;
@@ -217,7 +217,7 @@ body.active .wrapper .section{
 
 footer{
   position: fixed;
-  background-color: #0d47a1;
+  background-color: #1C3144;
   width: 100%;
   height: 60px;
   bottom: 0;
@@ -256,12 +256,12 @@ footer{
 
 .utilisateur{
   margin-left: 50%;
-  color:#00b8d4;
+  color:#A2A3BB;
 }
 
 /* Dropdown Button */
 .dropbtn, .dropbtnconsul {
-  color:#00b8d4;
+  color:#A2A3BB;
   padding: 16px;
   font-size: 16px;
 }
@@ -281,7 +281,7 @@ footer{
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #0091ea;
+  background-color: #A2A3BB;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -342,7 +342,7 @@ th{
 
 td{
   letter-spacing: 1px;
-  color: #0091ea;
+  color: #A2A3BB;
 }
 
 tbody td{
@@ -352,7 +352,7 @@ tbody td{
 
 thead {
   background-color: #d6d5d5;
-  color:#00b8d4;
+  color:#A2A3BB;
 }
 
 thead th {
@@ -374,7 +374,7 @@ input {
 
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #00b8d4;}
+.dropdown-content a:hover {background-color: #A2A3BB;}
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content {display: block;}
@@ -385,7 +385,7 @@ input {
 /*Pour la page consultation*/
 
 /*Change color of dropdown links on hover*/
-.dropdownconsul-content a:hover {background-color: #00b8d4;}
+.dropdownconsul-content a:hover {background-color: #A2A3BB;}
 
 /*Show the dropdown menu on hover*/
 .dropdownconsul:hover .dropdown-content {display: block;}
