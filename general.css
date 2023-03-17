@@ -158,14 +158,14 @@ body.active .wrapper .section{
 .card{
   width: 550px;
   margin: 0px auto;
-  background-color: #EDE5A6;
+  background-color: #EAF8BF;
   box-shadow: 0px 5px 20px #999;
 }
 
 .card_consul{
   width: 1100px;
   margin: 0px auto;
-  background-color: #EDE5A6;
+  background-color: #EAF8BF;
   box-shadow: 0px 5px 20px #999;
   color: #333;
   text-decoration: nome;
